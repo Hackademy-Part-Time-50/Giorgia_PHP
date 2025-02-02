@@ -10,3 +10,5 @@ foreach ($corsi as  $corso) {
     break;
    }
 }
+
+/* chiedere perchè non ho capito */

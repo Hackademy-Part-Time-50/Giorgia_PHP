@@ -1,0 +1,2 @@
+<?php 
+/* Creare una proprietà statica "public static $students = 0" che sarà incrementata ogni volta che viene creato un nuovo oggetto di tipo Student. Questo incremento lo facciamo nel costruttore, incrementando, appunto, di 1 la variabile $students. Dopo aver creato la proprietà, creare un numero di oggetti a piacere della classe Student e successivamente stampare, tramite echo, la proprietà statica $students */

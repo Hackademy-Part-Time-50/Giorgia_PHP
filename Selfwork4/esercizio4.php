@@ -1,0 +1,2 @@
+<?php 
+/* Adesso che non possiamo più accedere alla proprietà "dall'esterno" dell'oggetto, scriviamo un metodo chiamato "getAge" che stampi attraverso echo la proprietà age. Testarne il corretto funzionamento chiamando questo metodo a partire da un oggetto. */

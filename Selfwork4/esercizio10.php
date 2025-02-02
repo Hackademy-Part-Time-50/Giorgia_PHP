@@ -1,0 +1,2 @@
+<?php 
+/* Modificare la proprietà statica $students appena creata, da public a private ed in seguito creare un metodo statico che ci servirà per stampare $students. Testare il metodo statico appena creato, chiamandolo direttamente dalla classe Student (e non dall'oggetto). */
