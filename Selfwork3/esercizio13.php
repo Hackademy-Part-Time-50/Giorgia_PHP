@@ -4,9 +4,9 @@
  */
 
 
- function saluto($nome = ''){
+ function saluto($nome = null){
 
-    if ($nome === ''){ 
+    if ($nome === null){ 
         return "Non c'è Nessuno";
     
     } else {
